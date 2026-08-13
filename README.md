@@ -85,21 +85,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats
 <div align="center">
-
 <img height="170" src="https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api?username=mhtasnia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api/top-langs/?username=mhtasnia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=mhtasnia&theme=tokyonight&hide_border=true" />
-
 <br /><br />
-
 </div>
-
 ---
 
 ## 🐍 Watch My Contributions Get Eaten
