@@ -17,21 +17,6 @@
 
 <br />
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-## 🚀 About Me
-
-```yaml
-name: Meherose Hossain Tasnia
-role: Software Engineering Undergraduate
-location: Dhaka, Bangladesh 🇧🇩
-
-currently_building: MtuberAgent — autonomous potato sorting
-currently_learning: [Computer Vision, Multi-Agent Systems]
-ask_me_about: [Python, Django, React, Deep Learning]
-
-fun_fact: I once taught a computer to grade potatoes 🥔
-```
 
 - 🎓 Final-year **Software Engineering** student at Daffodil International University
 - 🌱 Started with web development, now deep in **Machine Learning**
@@ -137,11 +122,11 @@ fun_fact: I once taught a computer to grade potatoes 🥔
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mhtasnia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</a>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=mhtasnia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
+
+---
 
 ---
 
