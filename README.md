@@ -98,8 +98,6 @@
 
 <br /><br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhtasnia&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
 
 ---
@@ -113,16 +111,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhtasnia/mhtasnia/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mhtasnia/mhtasnia/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy...  />
 
 </div>
 
