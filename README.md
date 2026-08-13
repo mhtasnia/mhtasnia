@@ -17,13 +17,27 @@
 
 <br />
 
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+## 🚀 About Me
+
+```yaml
+name: Meherose Hossain Tasnia
+role: Software Engineering Undergraduate
+location: Dhaka, Bangladesh 🇧🇩
+
+currently_building: MtuberAgent — autonomous potato sorting
+currently_learning: [Computer Vision, Multi-Agent Systems]
+ask_me_about: [Python, Django, React, Deep Learning]
+
+fun_fact: I once taught a computer to grade potatoes 🥔
+```
+
 - 🎓 Final-year **Software Engineering** student at Daffodil International University
 - 🌱 Started with web development, now deep in **Machine Learning**
 - ⚡ I build things that go from **notebook → API → browser**
 - 🏆 **2nd Runner-up**, NASA Space Apps Challenge Bangladesh 2024
 - 💬 Ask me anything — I love a good technical rabbit hole
-
-<br clear="right" />
 
 ---
 
@@ -90,8 +104,8 @@
 
 <div align="center">
 
-<img height="170" src="https://https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api?username=mhtasnia&show_icons=true/api?username=mhtasnia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api?username=mhtasnia&show_icons=true/api/top-langs/?username=mhtasnia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api?username=mhtasnia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-eta-ochre-9y1is9bh9e.vercel.app/api/top-langs/?username=mhtasnia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br />
 
@@ -123,7 +137,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhtasnia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mhtasnia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</a>
 
 </div>
 
