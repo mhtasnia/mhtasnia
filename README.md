@@ -18,7 +18,7 @@
 <br />
 
 
-- 🎓 Final-year **Software Engineering** student at Daffodil International University
+- 🎓 **Software Engineering** graduate from Daffodil International University
 - 🌱 Started with web development, now deep in **Machine Learning**
 - ⚡ I build things that go from **notebook → API → browser**
 - 🏆 **2nd Runner-up**, NASA Space Apps Challenge Bangladesh 2024
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=mhtasnia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy...  />
 
 </div>
 
