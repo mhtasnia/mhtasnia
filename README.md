@@ -1,17 +1,194 @@
-# 💫 About Me:
-🎓 Currently pursuing my Bachelor's degree.<br><br>🌐 I've explored the world of web development and am now deeply fascinated by Machine Learning 🧠.<br><br>Let's connect, collaborate, and learn together! 🌱
+<div align="center">
 
+# Meherose Hossain Tasnia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meherose-hossain-tasnia-763074266/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhtasnia@gmail.com) 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineering+Undergraduate;Deep+Learning+for+Medical+%26+Agricultural+Imaging;Segmentation+%7C+Attention+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhtasnia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhtasnia&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhtasnia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://mhtasnia.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/meherose1125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tasnia22205341191@diu.edu.bd"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mhtasnia&style=flat-square&color=2F81F7&label=Profile+Views" alt="Profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mhtasnia&icon=8&color=2)](https://visitcount.itsvg.in)
 
+## About
+
+Final-year **B.Sc. in Software Engineering** student at Daffodil International University (CGPA 3.97/4.00), working on deep learning for image analysis in medical and agricultural domains.
+
+- Currently building **MtuberAgent**, a multi-agent framework for automated potato defect grading
+- Presented **MSRA-Net** at EICT 2025 — spatial attention for diabetic retinopathy classification
+- Preparing M.Sc. applications in Computer Science / Software Engineering
+- Interested in segmentation architectures, attention mechanisms, and class-imbalance methods
+
+---
+
+## Research
+
+<details>
+<summary><b>MtuberAgent</b> — Explainable Multi-Agent Framework for Export-Quality Potato Grading &nbsp;<code>ongoing</code></summary>
+
+<br />
+
+Post-harvest potato grading is still largely manual, and most vision systems stop at detecting a defect rather than grading it against a commercial standard.
+
+**What I built**
+
+- A two-stage segmentation cascade — isolate individual tubers, then segment four surface defect classes: scab, rot, greening, and mechanical damage
+- Benchmarked convolutional and transformer-based segmentation architectures
+- Handled severe class imbalance through selective oversampling with class-loss weighting
+- A four-agent pipeline that grades each potato and batch against **UNECE Standard FFV-52**, produces a visual justification for every detection, and compiles a queryable inspection report
+- Annotated two Diamant-variety datasets and deployed the system as a browser-based application
+
+**Stack** — PyTorch · Ultralytics YOLO · OpenCV · Python
+
+> Manuscript in preparation. Results available on request.
+
+</details>
+
+<details>
+<summary><b>MSRA-Net</b> — Deep Learning Architecture with Spatial Attention &nbsp;<code>presented at EICT 2025</code></summary>
+
+<br />
+
+A deep learning architecture for **Diabetic Retinopathy Classification** from retinal fundus images.
+
+- Designed the model around spatial attention mechanisms to improve classification accuracy on medical imaging datasets
+- Directed model focus toward clinically relevant lesion regions
+- Authored the manuscript and presented the findings virtually at EICT 2025
+
+**Stack** — TensorFlow · Keras · Python
+
+</details>
+
+---
+
+## Projects
+
+<details>
+<summary><b>Daycare Connect</b> — Microservices platform for daycare services</summary>
+
+<br />
+
+- Full software development lifecycle, from requirements through deployment
+- Scalable **microservices architecture** separating distinct service modules
+- Validated with **ATAM** (Architecture Tradeoff Analysis Method) and comprehensive UML documentation
+
+**Stack** — Spring Boot · Java · SQL
+
+</details>
+
+<details>
+<summary><b>EduSphere</b> — Personalised learning platform</summary>
+
+<br />
+
+- Built for the Learnathon 3.0 Python Stack category as team lead
+- JWT authentication and peer-to-peer collaboration features to increase student engagement
+
+**Stack** — Python · Django · React.js
+
+</details>
+
+<details>
+<summary><b>SlingRing</b> — Exoplanet data visualisation &nbsp;<code>NASA Space Apps 2024</code></summary>
+
+<br />
+
+- Web application for visualising exoplanet data with emphasis on reliability and data accuracy
+- Built with a 5-member team — **2nd Runner-up**, NASA Space Apps Challenge Bangladesh 2024 (Cumilla region)
+
+**Stack** — React.js · JavaScript
+
+</details>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Web & Tools**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## Achievements
+
+<details>
+<summary><b>Awards, certifications & academic record</b></summary>
+
+<br />
+
+**Awards**
+
+| Award | Detail | Year |
+|---|---|---|
+| Dean's List Award | Daffodil International University | Fall 2023 |
+| 2nd Runner-up | NASA Space Apps Challenge Bangladesh, Cumilla region | 2024 |
+
+**Academic record**
+
+| Level | Institution | Result |
+|---|---|---|
+| B.Sc. Software Engineering | Daffodil International University | CGPA 3.97 / 4.00 |
+| HSC (Science) | Ideal School and College | GPA 5.00 / 5.00 |
+| SSC (Science) | Ideal School and College | GPA 5.00 / 5.00 |
+
+**Certifications**
+
+- Google Cloud Generative AI Leader — *Google Cloud, Jan 2026*
+- Deep Learning Specialization — *DeepLearning.AI*
+- AWS Academy Machine Learning Foundations — *Amazon Web Services*
+- Open Science 101 — *NASA*
+
+</details>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhtasnia&show_icons=true&hide_border=true&theme=transparent&icon_color=2F81F7&title_color=2F81F7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtasnia&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to research collaborations and academic opportunities.**
+
+<a href="mailto:tasnia22205341191@diu.edu.bd">tasnia22205341191@diu.edu.bd</a>
+
+</div>
